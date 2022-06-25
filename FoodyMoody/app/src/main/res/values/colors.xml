@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink_200">#F6E4E3</color>
+    <color name="pink_500">#F59D9C</color>
+    <color name="teal_200">#D3DCD9</color>
+    <color name="teal_500">#A7C8A6</color>
+    <color name="black">#2B2B2B</color>
+    <color name="black_transparent_darker">#DC2B2B2B</color>
+    <color name="black_transparent">#612B2B2B</color>
+    <color name="pink_transparent">#85FB908E</color>
+    <color name="teal_transparent">#9591C38F</color>
+    <color name="white">#FFFCF7</color>
+    <color name="white_darker">#FDF0D9</color>
+</resources>
